@@ -7,7 +7,7 @@
 Summary:	tzinfo object for the local timezone
 Name:		python-%{module}
 Version:	2.1
-Release:	3
+Release:	4
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://pypi.python.org/packages/source/t/tzlocal/%{module}-%{version}.tar.gz
